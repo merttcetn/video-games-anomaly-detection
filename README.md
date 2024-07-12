@@ -24,7 +24,7 @@ The dataset used for this project contains information about video game sales ac
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/merttcetn/video-games-sales-anomaly-detection.git
-   cd video-game-sales-anomaly
+   cd video-game-sales-anomaly-detection
    ```
 
 2. **Install dependencies**:
